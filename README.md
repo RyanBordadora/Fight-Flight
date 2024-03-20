@@ -6,7 +6,7 @@ Steps
 3. Connect a Serial Connection and Set it in GameClient.py
 4. Wire Up An Arduino Circuit with 3 Buttons, using Controller.ino
 5. Run Multiplayer.py
-6. Set HOST to that IP Address
+6. Set HOST to that IP Address in Gameclient, Check All 3
 7. Connect a Video Receiver from a Drone
 8. Run Configurator.py
 9. Select Colorvision (Or Machine if you have a program for it)

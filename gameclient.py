@@ -34,7 +34,7 @@ def center_image_on_screen(screen, image):
 ser = serial.Serial('COM4', 9600, timeout=1)
 
 # Get the host IP address
-HOST = '192.168.56.1'
+HOST = ''
 # Get the host PORT
 PORT = 55555
 
@@ -907,7 +907,7 @@ def duel_server(drone_type, secondary):
     custom_font_Ammo = pygame.font.Font(AG_path, 48)  # Adjust the font size (36) as needed
 
     # Server details
-    HOST = '192.168.56.1'
+    HOST = 
     PORT = 55555
 
     # Player details
@@ -1122,7 +1122,7 @@ def supremacy_server(drone_type, secondary):
     custom_font_Ammo = pygame.font.Font(AG_path, 48)  # Adjust the font size (36) as needed
 
     # Server details
-    HOST = '192.168.56.1'
+    HOST = ''
     PORT = 55555
 
     # Player details

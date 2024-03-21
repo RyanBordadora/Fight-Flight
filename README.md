@@ -1,4 +1,4 @@
-# Fight-Flight
+# Fight-Flight V 1.0
 UCR 2024 Senior Design
 Steps
 1. Install All Necessary Libraries
